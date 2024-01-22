@@ -1,0 +1,16 @@
+{
+    "scripts": {
+        "start": "ts-node src/server.js",
+        "test": "react-scripts test",
+        "build": "react-scripts build",
+        "eject": "react-scripts eject"
+    },
+    "devDependencies": {
+        "ts-node": "^10.9.2"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "socket.io": "^4.7.4"
+    }
+}

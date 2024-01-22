@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "outDir": "./dist",
+      "rootDir": "./src"
+      // Other compiler options...
+    },
+    "include": [
+      "src/server.tsx",
+      // Add other files as needed
+    ],
+    "exclude": ["node_modules", "dist"]
+  }  
