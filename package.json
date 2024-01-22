@@ -1,10 +1,10 @@
 {
     "scripts": {
-        "start": "ts-node src/server.js",
-        "test": "react-scripts test",
+        "start": "react-scripts start",
         "build": "react-scripts build",
+        "test": "react-scripts test",
         "eject": "react-scripts eject"
-    },
+      },
     "devDependencies": {
         "ts-node": "^10.9.2"
     },
